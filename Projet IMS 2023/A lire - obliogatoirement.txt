@@ -1,0 +1,18 @@
+
+1. Le travail est individuel
+
+2. Chaque étudiant doit utiliser sa propre machine physique ou virtuelle
+
+3. Les conditions de notation sont: 
+
+Première partie (installation coeur IMS) : 08/20 (8pts)
+Deuxième partie (installation du serveur de présence) : 10/20 ((2pts)
+Troisième partie (installation du serveur VoD) : 10/20 (0pts)
+QUatrième partie (installation du serveur IPTV) : 14/20 ((4pts)
+
+4. comment rendre le projet?
+L'étudiant se présente chez le formateur (enseignant) pour montrer les resultats
+
+5. Comment obtenir les 6pts 
+- obtenir 14/20
+- répondre aux Q&R

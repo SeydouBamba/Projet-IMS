@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -cp monster-desktop.jar -Dmodule.dirs=. de.fhg.fokus.monster.Starter

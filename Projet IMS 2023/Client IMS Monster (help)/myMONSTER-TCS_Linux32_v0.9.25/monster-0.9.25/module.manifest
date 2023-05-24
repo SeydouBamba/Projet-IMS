@@ -1,0 +1,17 @@
+[Common]
+LibraryPath=lib/native
+
+[Module]
+Class=de.fhg.fokus.monster.Module
+
+[Module]
+Class=de.fhg.fokus.ims.Module
+
+[Module]
+Class=de.fhg.fokus.monster.apps.Module
+
+[Module]
+Class=de.fhg.fokus.ims.core.media.gstreamer.Module
+
+
+
